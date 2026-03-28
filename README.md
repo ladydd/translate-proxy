@@ -7,7 +7,7 @@ Go 实现，运行内存约 5MB。
 ## 快速启动
 
 ```bash
-git clone https://github.com/yourname/translate-proxy.git
+git clone https://github.com/ladydd/translate-proxy.git
 cd translate-proxy
 ```
 
@@ -92,6 +92,14 @@ networks:
   你的网络名:
     external: true
 ```
+
+
+
+## 效果展示
+
+![接入配置](https://img.weini.xin/d/photos/obsidian/20260328112058264.png?sign=JC8YiwpAs3T__DN7BTYT_txXG6YvsgifmgegTEurLD0=:0)
+
+![翻译效果](https://img.weini.xin/d/photos/obsidian/20260328112136184.png?sign=ib4cRIPzdIs7pmr1aSfJo1z2CC0nNSYUfMx0bQf5A7U=:0)
 
 ## 协议
 
